@@ -1,0 +1,36 @@
+Candidate Resume,Match Percentage,Recommendation,Category,Confidence,Matched Skills,Missing Skills,Skill Match %,Skills Score,Experience Score,Education Score,Projects Score,Communication Score,Summary,Rank
+resume1_ritu_sharma.pdf,64.3,Hire,Average Fit,Medium,"SQL, AWS, NLP, LangChain, TensorFlow, Streamlit, Machine Learning, Python, Git, Deep Learning",,100.0,10,8,8,7,8,"
+    Candidate has experience in
+    SQL, AWS, NLP, LangChain, TensorFlow, Streamlit, Machine Learning, Python, Git, Deep Learning.
+
+    Missing skills:
+    
+    ",1
+resume2_aarav_mehta.pdf,63.54,Hire,Average Fit,Medium,"SQL, AWS, TensorFlow, Machine Learning, Python","NLP, LangChain, Streamlit, Git, Deep Learning",50.0,5,8,8,7,8,"
+    Candidate has experience in
+    SQL, AWS, TensorFlow, Machine Learning, Python.
+
+    Missing skills:
+    NLP, LangChain, Streamlit, Git, Deep Learning
+    ",2
+resume4_karan_malhotra.pdf,46.74,Consider,Poor Fit,Low,Python,"SQL, AWS, NLP, LangChain, TensorFlow, Streamlit, Machine Learning, Git, Deep Learning",10.0,1,5,8,7,8,"
+    Candidate has experience in
+    Python.
+
+    Missing skills:
+    SQL, AWS, NLP, LangChain, TensorFlow, Streamlit, Machine Learning, Git, Deep Learning
+    ",4
+resume3_priya_verma.pdf,45.04,Consider,Poor Fit,Low,"Python, SQL, Machine Learning","AWS, NLP, LangChain, TensorFlow, Streamlit, Git, Deep Learning",30.0,3,5,8,7,8,"
+    Candidate has experience in
+    Python, SQL, Machine Learning.
+
+    Missing skills:
+    AWS, NLP, LangChain, TensorFlow, Streamlit, Git, Deep Learning
+    ",3
+resume5_rohan_singh.pdf,37.5,No Hire,Poor Fit,Low,,"SQL, AWS, NLP, TensorFlow, LangChain, Streamlit, Machine Learning, Python, Git, Deep Learning",0.0,0,5,8,7,8,"
+    Candidate has experience in
+    .
+
+    Missing skills:
+    SQL, AWS, NLP, TensorFlow, LangChain, Streamlit, Machine Learning, Python, Git, Deep Learning
+    ",5
