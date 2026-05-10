@@ -1,0 +1,10 @@
+langchain
+transformers
+sentence-transformers
+pdfplumber
+python-docx
+pandas
+matplotlib
+reportlab
+faiss-cpu
+scikit-learn
