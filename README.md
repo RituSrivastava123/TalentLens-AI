@@ -1,5 +1,7 @@
 # TalentLens AI
+## Live Demo
 
+https://talentlens-ai-bsfbl33ydt8kmhkxotnhie.streamlit.app/
 ## AI-Powered Resume Intelligence & Candidate Shortlisting Platform
 
 TalentLens AI is an advanced resume screening and candidate intelligence platform designed to simplify the hiring process using Artificial Intelligence and Natural Language Processing.
