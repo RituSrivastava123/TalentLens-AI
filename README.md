@@ -1,86 +1,86 @@
-# TalentLens AI – Resume Shortlisting Agent
+# TalentLens AI
 
-## Overview
+## AI-Powered Resume Intelligence & Candidate Shortlisting Platform
 
-TalentLens AI is an AI-powered HR assistant that automates candidate shortlisting using semantic similarity, embeddings, and AI-assisted reasoning.
+TalentLens AI is an advanced resume screening and candidate intelligence platform designed to simplify the hiring process using Artificial Intelligence and Natural Language Processing.
 
-The system compares resumes against job descriptions and generates intelligent ranking reports with recommendations, confidence levels, and skill-gap analysis.
-
----
-
-## Features
-
-* Resume Parsing (PDF/DOCX)
-* Job Description Parsing
-* Semantic Similarity Matching
-* Skill Gap Analysis
-* AI Candidate Evaluation
-* Candidate Ranking
-* Recommendation Engine
-* Confidence Scoring
-* PDF Report Generation
-* CSV Export
-* Human Override System
-* Security Mitigation
+The platform analyzes resumes against a job description, calculates semantic similarity, generates ATS scores, identifies skill gaps, and provides recruiter recommendations through an interactive premium dashboard.
 
 ---
 
-## Tech Stack
+# Features
 
-* Python
-* Google Colab
-* HuggingFace Transformers
-* Sentence Transformers
-* Pandas
-* Matplotlib
-* ReportLab
+## AI Resume Screening
+- Semantic similarity matching using Sentence Transformers
+- Intelligent candidate ranking system
+- ATS-based resume evaluation
 
----
+## Resume Intelligence
+- Resume parsing from PDF files
+- Skill extraction and matching
+- Missing skill identification
+- Recruiter insight generation
 
-## Workflow
+## Interactive Dashboard
+- Premium glassmorphism UI
+- Animated dashboard components
+- Interactive analytics charts
+- Candidate comparison system
+- Skill heatmaps
 
-1. Upload Job Description
-2. Upload Candidate Resumes
-3. Extract Resume Text
-4. Generate Embeddings
-5. Compute Semantic Similarity
-6. Perform Skill Gap Analysis
-7. Rank Candidates
-8. Generate PDF & CSV Reports
+## Recruiter Tools
+- AI recruiter notes
+- Hiring recommendations
+- Resume analytics
+- Match score filtering
+- Candidate search functionality
 
----
-
-## Security Mitigations
-
-* API keys are not hardcoded
-* Resume data processed locally
-* Structured outputs reduce hallucination risks
-* Human override ensures HR validation
-* File validation restricts accepted formats
-
----
-
-## Results
-
-The system successfully:
-
-* ranked candidates
-* identified missing skills
-* generated recommendation categories
-* exported professional reports
+## Advanced UI/UX
+- Dark premium interface
+- Responsive dashboard
+- Plotly visualizations
+- Smooth animations
+- Professional recruiter-focused design
 
 ---
 
-## Future Scope
+# Tech Stack
 
-* LinkedIn profile integration
-* Streamlit dashboard
-* ATS integration
-* Multi-agent AI workflows
-* Real-time recruitment analytics
+## Frontend
+- Streamlit
+- HTML/CSS
+- Plotly
+
+## Backend
+- Python
+
+## AI/NLP
+- Sentence Transformers
+- Scikit-learn
+- NLP-based semantic matching
+
+## Data Processing
+- Pandas
+- NumPy
+
+## PDF Processing
+- PyPDF2
 
 ---
 
-## Author
+# Project Workflow
 
-Ritu Srivastava
+```text
+Job Description PDF
+        ↓
+Resume PDF Parsing
+        ↓
+Semantic Embedding Generation
+        ↓
+AI Similarity Matching
+        ↓
+ATS Score Calculation
+        ↓
+Candidate Ranking
+        ↓
+Analytics Dashboard
