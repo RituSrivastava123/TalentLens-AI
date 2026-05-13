@@ -444,7 +444,7 @@ Screenshots available in the `/screenshots` folder.
 **Ritu Srivastava**  
 B.Tech AIML — UPES Dehradun  
 
-Built for the AI Enablement Internship Assignment — Travel Corporation India Ltd × UPES Career Services, May 2026.
+Built for the AI Enablement Internship Assignment — Travel Corporation India Ltd × UPES 13May 2026.
 
 ---
 
